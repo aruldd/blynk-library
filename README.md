@@ -9,7 +9,7 @@ If you like **Blynk** - give it a star, or fork it and contribute!
 [![GitHub stars](https://img.shields.io/github/stars/blynkkk/blynk-library.svg?style=social&label=Star)](https://github.com/blynkkk/blynk-library/stargazers) 
 [![GitHub forks](https://img.shields.io/github/forks/blynkkk/blynk-library.svg?style=social&label=Fork)](https://github.com/blynkkk/blynk-library/network)
 
-## Download here:
+## Download here: 
 **Library:** https://github.com/blynkkk/blynk-library/releases/latest
 
 **Apps:** [Google Play](https://play.google.com/store/apps/details?id=cc.blynk) / [App Store](https://itunes.apple.com/us/app/blynk-control-arduino-raspberry/id808760481?ls=1&mt=8)
